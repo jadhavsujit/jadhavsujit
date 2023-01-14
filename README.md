@@ -20,4 +20,4 @@ Pursuing PGD in Advanced Computing <br>BE Computer Science Graduated 2022
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-https://github-readme-stats.vercel.app/api?username=[your username]
+https://github-readme-stats.vercel.app/api?username=jadhavsujit
