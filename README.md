@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h5>Graduate Software Engineer @Renishaw Metrology Systems Ltd, Pune</h5><br>
+<h5>Software Engineer @Renishaw Metrology Systems Ltd, Pune</h5><br>
 PGD in Advanced Computing <br>BE Computer Science Graduated 2022
 
 
