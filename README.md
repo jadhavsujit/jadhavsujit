@@ -18,4 +18,4 @@ PGD in Advanced Computing <br>BE Computer Science Graduated 2022
 ![](https://github-profile-trophy.vercel.app/?username=jadhavsujit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jadhavsujit&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jadhavsujit&label=Profile%20Views&color=6&icon=7&pretty=true)](https://visitcount.itsvg.in)
